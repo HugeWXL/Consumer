@@ -35,7 +35,7 @@ namespace csm
 
 	/**
 	 * \类名 IConsumerHander<T>
-	 * \作者 wangxl
+	 * \作者 huge
 	 * \日期 2022/09/06
 	 * \描述 消费者组件事件处理Handler类
 	 *	它定义了消费者组件Consumer<T>所有可能发生的事件，你可以酌情重写事件处理接口以满足特定需求
@@ -82,7 +82,7 @@ namespace csm
 
 	/**
 	 * \类名 Consumer
-	 * \作者 wangxl
+	 * \作者 huge
 	 * \日期 2022/06/23
 	 * \描述 消费者组件类模板
 	 * \备注 要求编译器支持C++11或更高语言标准
